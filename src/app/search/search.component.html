@@ -12,19 +12,14 @@
           type="number"
           class="form-control mb-4"
           placeholder="Prix minimum"
+          #prixMin (input)="recherchePrixMin(+prixMin.value)"
         >
         <label class="fs-5 form-label">Prix max :</label>
         <input
           type="number"
           class="form-control mb-4"
           placeholder="Prix maximum"
-        >
-        <label class="fs-5 form-label">Catégorie :</label>
-        <input
-          type="text"
-          class="form-control mb-4"
-          placeholder="Catégorie"
-          #categorie (input)="recherche(categorie.value)"
+          #prixMax (input)="recherchePrixMax(+prixMax.value)"
         >
       </form>
     </div>

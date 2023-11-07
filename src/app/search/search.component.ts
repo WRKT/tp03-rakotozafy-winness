@@ -10,8 +10,18 @@ import { Component, Output, EventEmitter} from '@angular/core';
 export class SearchComponent {
 
   @Output() motCle = new EventEmitter<string>();
+  @Output() prixMin = new EventEmitter<number>();
+  @Output() prixMax = new EventEmitter<number>();
 
   recherche(value: string) {
     this.motCle.emit(value);
+  }
+
+  recherchePrixMin(prixMin: number) {
+    this.prixMin.emit(prixMin);
+  }
+
+  recherchePrixMax(prixMax: number) {
+    this.prixMax.emit(prixMax);
   }
 }
