@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "nom": "iPhone 13 Pro",
+      "description": "Le dernier smartphone d'Apple avec une superbe caméra et un écran OLED.",
+      "prix": 999.99,
+      "categorie": "Téléphones"
+    },
+    {
+      "id": 2,
+      "nom": "Samsung Galaxy S21",
+      "description": "Un smartphone Android puissant avec un écran dynamique et une caméra avancée.",
+      "prix": 799.99,
+      "categorie": "Téléphones"
+    },
+    {
+      "id": 3,
+      "nom": "MacBook Air",
+      "description": "L'ordinateur portable ultraléger d'Apple avec une puce M1 et une autonomie exceptionnelle.",
+      "prix": 1199.99,
+      "categorie": "Ordinateurs portables"
+    },
+    {
+      "id": 4,
+      "nom": "Sony PlayStation 5",
+      "description": "La console de jeu de nouvelle génération avec des graphismes époustouflants et une grande bibliothèque de jeux.",
+      "prix": 499.99,
+      "categorie": "Jeux vidéo"
+    },
+    {
+      "id": 5,
+      "nom": "Apple Watch Series 7",
+      "description": "Une montre intelligente élégante avec un grand écran et des fonctionnalités de santé avancées.",
+      "prix": 349.99,
+      "categorie": "Montres connectées"
+    },
+    {
+      "id": 6,
+      "nom": "Sony 4K Ultra HD Smart TV",
+      "description": "Une télévision 4K de qualité avec un écran dynamique et des applications intégrées.",
+      "prix": 799.99,
+      "categorie": "Télévisions"
+    },
+    {
+      "id": 7,
+      "nom": "Canon EOS 5D Mark IV",
+      "description": "Un appareil photo DSLR professionnel avec une qualité d'image exceptionnelle.",
+      "prix": 2499.99,
+      "categorie": "Appareils photo"
+    },
+    {
+      "id": 8,
+      "nom": "Dyson V11 Absolute",
+      "description": "Un aspirateur sans fil puissant avec une filtration avancée.",
+      "prix": 599.99,
+      "categorie": "Électroménager"
+    },
+    {
+      "id": 9,
+      "nom": "Bose QuietComfort 35 II",
+      "description": "Des écouteurs à réduction de bruit de première qualité pour une expérience sonore exceptionnelle.",
+      "prix": 299.99,
+      "categorie": "Écouteurs"
+    },
+    {
+      "id": 10,
+      "nom": "Samsung 49-Inch Odyssey G9",
+      "description": "Un écran de jeu incurvé ultralarge pour une expérience de jeu immersive.",
+      "prix": 1499.99,
+      "categorie": "Moniteurs"
+    }
+  ]
+  

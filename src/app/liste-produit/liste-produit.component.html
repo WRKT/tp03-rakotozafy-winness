@@ -1,0 +1,18 @@
+<app-search (motCle)="onMotCleChange($event)"></app-search>
+<table>
+    <tr>
+      <th>ID</th>
+      <th>Nom</th>
+      <th>Description</th>
+      <th>Catégorie</th>
+      <th>Prix</th>
+    </tr>
+    <tr *ngFor="let filteredProduit of filteredProduits">
+      <td>{{ filteredProduit.id }} </td>
+      <td>{{ filteredProduit.nom }}</td>
+      <td>{{ filteredProduit.description }}</td>
+      <td>{{ filteredProduit.categorie }}</td>
+      <td>{{ filteredProduit.prix | currency : "EUR" }}</td>
+    </tr>
+</table>
+  
