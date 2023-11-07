@@ -68,6 +68,41 @@
       "description": "Un écran de jeu incurvé ultralarge pour une expérience de jeu immersive.",
       "prix": 1499.99,
       "categorie": "Moniteurs"
+    },
+    {
+      "id": 11,
+      "nom": "Google Pixel 6",
+      "description": "Un smartphone Android haut de gamme avec une caméra avancée et une interface fluide.",
+      "prix": 899.99,
+      "categorie": "Téléphones"
+    },
+    {
+      "id": 12,
+      "nom": "HP Spectre x360",
+      "description": "Un ordinateur portable convertible élégant avec un écran tactile et de bonnes performances.",
+      "prix": 1299.99,
+      "categorie": "Ordinateurs portables"
+    },
+    {
+      "id": 13,
+      "nom": "Xbox Series X",
+      "description": "La console de jeu de nouvelle génération de Microsoft avec une puissance de traitement incroyable.",
+      "prix": 599.99,
+      "categorie": "Jeux vidéo"
+    },
+    {
+      "id": 14,
+      "nom": "Fitbit Versa 3",
+      "description": "Une montre de fitness intelligente avec suivi avancé de la santé et de la condition physique.",
+      "prix": 199.99,
+      "categorie": "Montres connectées"
+    },
+    {
+      "id": 15,
+      "nom": "LG OLED 4K Smart TV",
+      "description": "Une télévision OLED 4K avec des noirs parfaits et une excellente qualité d'image.",
+      "prix": 1499.99,
+      "categorie": "Télévisions"
     }
-  ]
+]
   
